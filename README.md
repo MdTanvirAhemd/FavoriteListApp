@@ -1,5 +1,5 @@
 # FavoriteListApp
-# This App support tablet mode
+# This App support [Tablet Mode]
 ![This is opening app page](https://drive.google.com/file/d/15CthqIa1bb5p24CWT9YOqkqpgqPTcpOc/view?usp=sharing
 
 Mobile Mode Link:-
